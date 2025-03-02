@@ -1,0 +1,6 @@
+{
+    "color_map": [
+        {"original": [255, 0, 0], "replacement": [0, 255, 0]},
+        {"original": [0, 0, 255], "replacement": [255, 255, 0]}
+    ]
+}
