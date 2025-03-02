@@ -1,4 +1,4 @@
-# colorReplace
+# RGB color Replace
 任意のPNGファイルを読み込み、JSONファイルで指定された色を対応する色に変換する
 
 
